@@ -3,8 +3,6 @@
 https://tumkoo.github.io/vue-abz/
 <br><br>
 <h1>Тестовое задание 2020</h1>
-<br>
-<br>
 <h2>Технические требования</h2>
 <ul>
     <li>React / Vue / Angular ( version 6+);</li>
